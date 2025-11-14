@@ -19,3 +19,11 @@ Bu analiz, talep edilen 10 yıllık İstanbul verisi yerine, Münih şehrine ait
 ### 3 yıllık yağış miktarı
 
 ![Yağışı Kalıpları Grafiği](https://raw.githubusercontent.com/ferhatcelk/projegrubu/5a9be05f74acd9b439574a8cc753f13475a74537/3_yillik_yagis_miktari.png)
+
+### 2 aylık mevsimsel kalıp
+
+![Aylık Yağış ve Kar Yağışı Kalıpları Grafiği](https://github.com/ferhatcelk/projegrubu/raw/e272b296152bdede034360e2baf597519ef8439d/2_aylik_mevsimsel_kalip.png)
+
+### 1 yıllık sıcaklık trend
+
+![Yağış ve Kar Yağışı Kalıpları Grafiği](https://raw.githubusercontent.com/ferhatcelk/projegrubu/e272b296152bdede034360e2baf597519ef8439d/1_yillik_sicaklik_trend.png)
